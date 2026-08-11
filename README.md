@@ -24,3 +24,6 @@ kushagra@dev:~$ whoami
 > AI Engineer | Specialized in Computer Vision & Latency Reduction
 kushagra@dev:~$ cat current_focus.txt
 > Advanced model optimization, Big Tech prep, & Quant Trading architectures
+🛠️ Architecture & Core Stack🔬 Domain SpecializationCore AreaApplied FocusTooling & ImplementationApplied Computer VisionImage processing, real-time object detection, pattern recognitionOpenCV, PyTorch, CNNsPredictive ModelingHigh-throughput latency reduction, financial modelingXGBoost, Scikit-learn, PythonGenerative AIModel optimization, scalable deployment pipelinesTensorFlow, Cloud Infrastructure🚀 High-Impact Deployments💼 Engineering Experience[Role Title, e.g., AI Research Intern] @ [Company/University Name]Date Range (e.g., May 2026 - Present)[Bullet 1: Action verb + project + quantifiable result][Bullet 2: Focus on scale, optimization, or architecture][Bullet 3: Keep it dense with impact, no fluff]📊 Telemetry & Consistency🏆 Achievements📈 Contribution Timeline📑 Activity Breakdown📡 Active DirectoryYAMLlearning: [Advanced Optimization Techniques, Quant Trading Models]
+building: [Medical AI solutions, Automotive Tech concepts]
+seeking: [Roles in Big Tech, Roles in Quant Firms]
