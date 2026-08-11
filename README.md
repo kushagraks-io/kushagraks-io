@@ -1,46 +1,30 @@
 # Hi there, I'm Kushagra 👋
 
-Welcome to my GitHub profile! I'm a developer who loves building projects, solving problems, and learning new technologies.
+Welcome to my GitHub profile! I'm a Computer Science student specializing in Artificial Intelligence, with a strong focus on Applied Computer Vision and Generative AI. I am passionate about building low-latency machine learning architectures and scalable production pipelines.
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[insert your current project]**
-- 🌱 I’m currently learning **[insert a language or framework, e.g., React, Python]**
-- 👯 I’m looking to collaborate on **[insert project types, e.g., open-source tools]**
-- 💬 Ask me about **[insert your strongest skills]**
-- 📫 How to reach me: **[insert your email or LinkedIn URL]**
+- 🔭 I’m currently working on **high-throughput latency reduction, XGBoost-based pricing architectures, and startup concepts in the medical and automotive fields.**
+- 🌱 I’m currently focusing on **advanced model optimization and preparing for roles in Big Tech and quantitative trading.**
+- 👯 I’m looking to collaborate on **innovative AI engineering projects and predictive modeling applications.**
+- 💬 Ask me about **deep learning, model optimization, and scalable ML production pipelines.**
+- 📫 How to reach me: **kushrshukla@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/kushagrashukla10/)**
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<!-- Replace these with technologies you actually use. You can find more icons at simpleicons.org -->
-**Languages:** JavaScript, Python, HTML5, CSS3  
-**Tools:** Git, GitHub, VS Code  
+<!-- Replace or add specific libraries you use, like PyTorch, TensorFlow, or OpenCV -->
+**Specialties:** Artificial Intelligence, Applied Computer Vision, Generative AI, Predictive Modeling  
+**Key Technologies:** Python, XGBoost, Deep Learning Frameworks, Machine Learning Pipelines  
 
 ---
 
 ### 📊 My GitHub Stats
 
-<!-- These widgets will auto-update based on your GitHub activity! -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushagraks-io&show_icons=true&theme=radical" alt="Kushagra's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagraks-io&theme=radical" alt="Kushagra's GitHub Streak" />
 </div>
-
-<!--
-**kushagraks-io/kushagraks-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
