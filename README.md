@@ -33,14 +33,20 @@
 ---
 
 <!-- 06. ABOUT / BIO -->
-### `> ./execute_bio.sh`
-
-I am a Computer Science student and AI Engineer specializing in low-latency machine learning architectures and scalable production pipelines. My primary focus is bridging the gap between theoretical AI models and high-throughput deployment, specifically aiming for roles in Big Tech and Quantitative Trading.
-
-```bash
-kushagra@terminal:~$ cat current_status.yaml
+> ./execute_bio.shI am a Computer Science student and AI Engineer specializing in low-latency machine learning architectures and scalable production pipelines. My primary focus is bridging the gap between theoretical AI models and high-throughput deployment, specifically aiming for roles in Big Tech and Quantitative Trading.kushagra@terminal:~$ cat current_status.yaml
 name: "Kushagra Shukla"
 role: "AI Engineer / ML Architect"
 domain: ["Applied Computer Vision", "Predictive Modeling", "Generative AI"]
 stack: ["Python", "PyTorch", "TensorFlow", "C++", "AWS"]
 open_to: "New Grad Software Engineering & Quant Roles"
+> ls /usr/local/bin/stack> cat specialties.txt> view expertise.mdDomainProficiencyDetailsApplied Computer VisionExpertReal-time object detection, OpenCV, CNNsPredictive ModelingAdvancedHigh-throughput financial models, XGBoostGenerative AIAdvancedLLM optimization, Scalable deploymentLow-Latency SystemsIntermediateC++, optimization, performance tuningCloud InfrastructureIntermediateAWS, GCP, Docker, Linux systems> cd /opt/projects && ls -laDetailInformationStackPython, XGBoost, PandasScale[Insert processing speed, e.g., 500k records/sec]Impact[Insertn, XGB reduction, e.g., 30%oost, Pand in response time]Developed a predictive modeling architecture focused on high-throughput data processing and latency reduction tailored for financial/trading applications.DetailInformationStackPyTorch, OpenCV, DockerScale[Insert dataset size or throughput]Impact[Insert accuracy or diagnosis speed improvement]An AI-driven solution utilizing computer vision for medical imaging analysis and automated diagnosis support.DetailInformationSTensorFlow, C++, AWSScaleA[Insert frames per second or device count]Impact[Insert real-time processing metric]High-performance computer vision framework designed for real-time automotive environment sensing and predictive modeling.sert frames per second or device count]Impact[Insert real-time processing metric]High-performance computer vision framework designed for real-time automotive environment sensing and predictive modeling.ow-level executionDocker, Linux, C++> cd /opt/projects && ls -la> tail -f /var/log/education.log> ping competitive_platforms> htop --user kushagraks-io> fetch trophies> systemctl status contributions> cat analytics.json> ./run_snake.sh> cat focus.yamllearning: 
+  - Advanced Optimization Techniques
+  - Quant Trading Models
+building: 
+  - Medical AI solutions
+  - Automotive Tech concepts
+exploring:
+  - Low-Latency Systems Architecture
+seeking: 
+  - Roles in Big Tech
+  - Roles in Quantitative Firms
